@@ -30,15 +30,19 @@ status: Open to Full-time Opportunities
 
 expertise:
   - Full Stack Web Development
-  - AI Integration & Implementation
+  - AI/ML Integration & Implementation
   - Real-time System Architecture
   - Database Design & Optimization
   - RESTful API Development
+  - Misinformation Detection Systems
+  - Educational Platform Development
 
 achievements:
   - DocuSign Hackathon Winner ($100 Prize)
   - Smart India Hackathon 2024 Finalist
   - Google Chrome AI Challenge Finalist
+  - Built AI System with 95% Accuracy (TruthGuard)
+  - Served 5,000+ Users (LearnFree Platform)
   - Delivered ₹20,000 E-Learning Platform
   - Led Web Dev Team - 2000+ Event Registrations
 ```
@@ -87,6 +91,42 @@ achievements:
 ---
 
 ## 🚀 Signature Projects
+
+### 🛡️ **TruthGuard** - AI-Powered Misinformation Detection System
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](#)
+
+**Technologies:** MongoDB Atlas Vector Search | Google Gemini 1.5 Pro | Python | Machine Learning
+
+An advanced AI system that serves as a comprehensive shield against fake news and media manipulation in real-time.
+
+**Key Achievements:**
+- ✅ Built real-time misinformation detection with 95% accuracy
+- ✅ Implemented political bias analysis and fact-checking algorithms
+- ✅ Developed narrative framing detection using ML models
+- ✅ Integrated MongoDB Atlas Vector Search for semantic analysis
+- ✅ Created sensationalism detection and credibility scoring
+
+**Impact:** Empowering users to navigate the information landscape with confidence and combat fake news effectively
+
+---
+
+### 📚 **LearnFree** - Multiportal Educational Platform
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](#)
+
+**Technologies:** React.js | Node.js | MongoDB | Gemini AI | Real-time Analytics
+
+A comprehensive educational ecosystem with distinct interfaces serving 5,000+ users across multiple stakeholder roles.
+
+**Key Achievements:**
+- ✅ Constructed multiportal system for students, teachers, and admins
+- ✅ Integrated Gemini AI for adaptive learning experiences
+- ✅ Implemented real-time progress tracking and collaboration tools
+- ✅ Developed personalized recommendation engine
+- ✅ Built analytics dashboard with risk alerts for 1,000+ active learners
+
+**Impact:** Revolutionizing academic management with AI-driven personalization and streamlined communication
+
+---
 
 ### 🎯 **MailSense** - Intelligent Email Management System
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://mailsense-omega.vercel.app/)
@@ -142,7 +182,7 @@ A revolutionary platform connecting farmers directly with consumers, eliminating
 
 ---
 
-### 📚 **OpenPrep** - Comprehensive Placement Preparation Hub
+### 📖 **OpenPrep** - Comprehensive Placement Preparation Hub
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://open-prepio.vercel.app/)
 
 **Technologies:** React.js | Node.js | MongoDB | Express.js | RESTful APIs
