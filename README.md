@@ -257,7 +257,7 @@ Centralized technical interview prep with company-specific resources, structured
 
 <div align="center">
 
-<a href="https://akashr-io.vercel.app/">
+<a href="https://akashrio-psi.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/aaakashrajendran">
