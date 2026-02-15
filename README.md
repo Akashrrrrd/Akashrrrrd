@@ -1,387 +1,1334 @@
-<div align="center">
-
-# Akash R
-
-### Full Stack Developer | Problem Solver | Innovation Architect
-
-<p align="center">
-  <a href="https://akashr-io.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aaakashrajendran"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:aakashrajendran2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Akashrrrrd"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Production-Grade+Solutions;AI-Powered+Application+Developer;Hackathon+Winner+%7C+SIH+Finalist;Transforming+Ideas+into+Reality" alt="Typing SVG" />
-
-</div>
-
----
-
-## 👨‍💻 Professional Profile
-
-```yaml
-name: Akash R
-role: Full Stack Developer
-education: B.E. in Electronics & Communication Engineering
-institution: Chennai Institute of Technology
-gpa: 8.2/10
-location: Chennai, Tamil Nadu, India
-status: Open to Full-time Opportunities
-
-expertise:
-  - Full Stack Web Development
-  - AI/ML Integration & Implementation
-  - Real-time System Architecture
-  - Database Design & Optimization
-  - RESTful API Development
-  - Misinformation Detection Systems
-  - Educational Platform Development
-
-achievements:
-  - DocuSign Hackathon Winner ($100 Prize)
-  - Smart India Hackathon 2024 Finalist
-  - Google Chrome AI Challenge Finalist
-  - Built AI System with 95% Accuracy (TruthGuard)
-  - Served 5,000+ Users (LearnFree Platform)
-  - Delivered ₹20,000 E-Learning Platform
-  - Led Web Dev Team - 2000+ Event Registrations
-```
-
----
-
-## 🎯 Core Competencies
-
-<div align="center">
-
-### **Languages & Frameworks**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### **Frontend Technologies**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### **Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### **Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Signature Projects
-
-### 🛡️ **TruthGuard** - AI-Powered Misinformation Detection System
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](#)
-
-**Technologies:** MongoDB Atlas Vector Search | Google Gemini 1.5 Pro | Python | Machine Learning
-
-An advanced AI system that serves as a comprehensive shield against fake news and media manipulation in real-time.
-
-**Key Achievements:**
-- ✅ Built real-time misinformation detection with 95% accuracy
-- ✅ Implemented political bias analysis and fact-checking algorithms
-- ✅ Developed narrative framing detection using ML models
-- ✅ Integrated MongoDB Atlas Vector Search for semantic analysis
-- ✅ Created sensationalism detection and credibility scoring
-
-**Impact:** Empowering users to navigate the information landscape with confidence and combat fake news effectively
-
----
-
-### 📚 **LearnFree** - Multiportal Educational Platform
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](#)
-
-**Technologies:** React.js | Node.js | MongoDB | Gemini AI | Real-time Analytics
-
-A comprehensive educational ecosystem with distinct interfaces serving 5,000+ users across multiple stakeholder roles.
-
-**Key Achievements:**
-- ✅ Constructed multiportal system for students, teachers, and admins
-- ✅ Integrated Gemini AI for adaptive learning experiences
-- ✅ Implemented real-time progress tracking and collaboration tools
-- ✅ Developed personalized recommendation engine
-- ✅ Built analytics dashboard with risk alerts for 1,000+ active learners
-
-**Impact:** Revolutionizing academic management with AI-driven personalization and streamlined communication
-
----
-
-### 🎯 **MailSense** - Intelligent Email Management System
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://mailsense-omega.vercel.app/)
-
-**Technologies:** React.js | Python | Gmail API | OAuth 2.0 | Twilio API
-
-An AI-powered email assistant that revolutionizes inbox management through intelligent automation and real-time notifications.
-
-**Key Achievements:**
-- ✅ Implemented secure Google OAuth authentication flow
-- ✅ Developed AI-based email classification system
-- ✅ Integrated WhatsApp notifications via Twilio API
-- ✅ Achieved complete privacy with no email storage
-- ✅ Real-time Gmail API synchronization
-
-**Impact:** Automated email workflow management saving 3+ hours weekly per user
-
----
-
-### ⚡ **SyncOps** - High-Performance Data Pipeline Platform
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://sync-ops-xvfz.vercel.app/)
-
-**Technologies:** FastAPI | PostgreSQL | Python | WebSocket | Async I/O
-
-A real-time collaboration platform engineered for high-throughput data processing and seamless team coordination.
-
-**Key Achievements:**
-- ✅ Architected sub-100ms data processing pipeline
-- ✅ Handles 100+ concurrent data streams
-- ✅ Implemented asynchronous I/O operations
-- ✅ Achieved 40% efficiency improvement
-- ✅ Built scalable PostgreSQL data layer
-
-**Impact:** Enterprise-grade performance with 99.9% uptime
-
----
-
-### 🌾 **AgroConnect** - Farm-to-Consumer Marketplace
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://agro-connect-luet.vercel.app/)
-
-**Technologies:** React.js | Firebase | Firestore | Gemini AI | Geolocation API
-
-A revolutionary platform connecting farmers directly with consumers, eliminating middlemen and ensuring fair pricing.
-
-**Key Achievements:**
-- ✅ Integrated location-based product discovery
-- ✅ Deployed Gemini AI chatbot for customer support
-- ✅ Built real-time inventory management system
-- ✅ Implemented secure Firebase authentication
-- ✅ Created responsive cross-platform UI
-
-**Impact:** Empowering farmers with direct market access
-
----
-
-### 📖 **OpenPrep** - Comprehensive Placement Preparation Hub
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://open-prepio.vercel.app/)
-
-**Technologies:** React.js | Node.js | MongoDB | Express.js | RESTful APIs
-
-A centralized platform providing structured resources for technical interview preparation and career development.
-
-**Key Achievements:**
-- ✅ Curated company-specific interview resources
-- ✅ Developed structured coding learning paths
-- ✅ Onboarded 1,500+ active learners
-- ✅ Built dynamic content management system
-- ✅ Implemented progress tracking features
-
-**Impact:** Helping students achieve placement success with organized preparation
-
----
-
-## 💼 Professional Experience
-
-### **Full Stack Developer Intern** | PrepInsta
-*June 2024 - August 2024*
-
-```
-Responsibilities:
-├─ Backend Development & API Optimization
-├─ Database Query Performance Enhancement
-├─ OAuth Authentication Implementation
-├─ System Reliability & Monitoring
-└─ Process Automation with Python Scripts
-
-Technologies: Node.js | Express.js | MongoDB | SQL | Python
-Achievement: Maintained near-zero downtime during active development
-```
-
-**Key Contributions:**
-- Optimized SQL queries resulting in 35% faster response times
-- Developed and deployed 15+ RESTful API endpoints
-- Implemented secure OAuth 2.0 authentication flows
-- Automated repetitive workflows reducing manual effort by 50%
-
----
-
-### **Web Developer Intern** | CodeBind Technologies
-*November 2023 - December 2023*
-
-```
-Responsibilities:
-├─ Full Stack Development
-├─ Database Architecture Design
-├─ API Development & Integration
-├─ Performance Optimization
-└─ Workflow Automation
-
-Technologies: PostgreSQL | MongoDB | Python | React.js
-Achievement: Designed scalable ticket booking platform architecture
-```
-
-**Key Contributions:**
-- Architected dual database system (PostgreSQL + MongoDB)
-- Implemented efficient indexing strategies for query optimization
-- Developed secure CRUD operations with data validation
-- Created automated data backup and recovery systems
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-| Achievement | Description | Recognition |
-|:------------|:------------|:------------|
-| 🥇 **DocuSign Hackathon** | Most Valuable Project Award | **$100 Prize Winner** |
-| 🏅 **Smart India Hackathon 2024** | National-level Innovation Challenge | **Finalist** |
-| 🎖️ **Google Chrome AI Challenge** | Built Scalable AI Solution | **Finalist** |
-| 🤖 **Nosu AI Hackathon** | AI-Driven Innovation Project | **Special Recognition** |
-| 💼 **Freelance Project** | Production E-Learning Platform | **₹20,000 Revenue** |
-| 👨‍💻 **Leadership Role** | Web Dev Head - Vidyutrenz Symposium | **2,000+ Registrations** |
-
-</div>
-
----
-
-## 📈 GitHub Performance Metrics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akashrrrrd&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akashrrrrd&theme=radical&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ffaa00&currStreakLabel=bf91f3" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashrrrrd&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akashrrrrd&theme=radical&utcOffset=5.5" alt="Productive Time"/>
-
-</div>
-
----
-
-## 🎓 Certifications & Continuous Learning
-
-<div align="center">
-
-| Certification | Issuing Organization | Domain |
-|:-------------|:---------------------|:-------|
-| 🤖 **Digital Skills: Artificial Intelligence** | Accenture via FutureLearn | AI & Machine Learning |
-| 🔒 **Networks & Security Fundamentals** | Cisco Networking Academy | Cybersecurity |
-| 🍃 **MongoDB for Developers** | MongoDB University | Database Management |
-
-</div>
-
----
-
-## 🎯 Current Focus & Future Goals
-
-```typescript
-interface CareerObjective {
-  immediate: string[];
-  shortTerm: string[];
-  longTerm: string[];
-  openTo: string[];
-}
-
-const myGoals: CareerObjective = {
-  immediate: [
-    "Building production-ready applications with scalable architecture",
-    "Deepening expertise in AI/ML integration",
-    "Contributing to impactful open-source projects"
-  ],
-  shortTerm: [
-    "Securing full-time software development role",
-    "Mastering system design and cloud architecture",
-    "Leading technical projects end-to-end"
-  ],
-  longTerm: [
-    "Architecting enterprise-scale distributed systems",
-    "Mentoring aspiring developers",
-    "Driving innovation in AI-powered solutions"
-  ],
-  openTo: [
-    "Full-time Software Development Positions",
-    "Freelance & Contract Projects",
-    "Technical Collaboration Opportunities",
-    "Open Source Contributions"
-  ]
-};
-```
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-### I'm actively seeking opportunities to contribute to innovative projects and grow with forward-thinking teams.
-
-<br/>
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/portfolio.png" width="50"/><br/>
-      <b>Portfolio</b><br/>
-      <a href="https://akashr-io.vercel.app/">akashr-io.vercel.app</a>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/email.png" width="50"/><br/>
-      <b>Email</b><br/>
-      <a href="mailto:aakashrajendran2004@gmail.com">aakashrajendran2004@gmail.com</a>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/phone.png" width="50"/><br/>
-      <b>Phone</b><br/>
-      <a href="tel:+919655667171">+91 9655667171</a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Explore_My_Work-FF5722?style=for-the-badge)](https://akashr-io.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaakashrajendran)
-[![Email](https://img.shields.io/badge/Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashrajendran2004@gmail.com)
-
-<br/>
-
----
-
-### 💡 Open to Opportunities
-
-I'm available for **immediate joining** and eager to contribute to projects that push technological boundaries. Whether you're looking for a dedicated team member or a reliable freelance developer, I'm ready to deliver exceptional results.
-
----
-
-<sub>⭐ **Star my repositories if you find my work valuable!** | 🔔 **Follow for updates on new projects**</sub>
-
-<br/>
-
-*"First, solve the problem. Then, write the code."* – John Johnson
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Akashrrrrd&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Akash R — Full Stack Developer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Mono:wght@300;400;500&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0a0b;
+    --surface: #111114;
+    --surface2: #18181d;
+    --border: rgba(255,255,255,0.07);
+    --border-hover: rgba(255,255,255,0.15);
+    --text: #e8e8ee;
+    --muted: #6b6b7a;
+    --accent: #c8f060;
+    --accent2: #60c8f0;
+    --accent3: #f060c8;
+    --gold: #f0c860;
+    --font-display: 'Syne', sans-serif;
+    --font-mono: 'DM Mono', monospace;
+    --font-serif: 'Instrument Serif', serif;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font-display);
+    overflow-x: hidden;
+    cursor: none;
+  }
+
+  /* Custom cursor */
+  .cursor {
+    width: 10px; height: 10px;
+    background: var(--accent);
+    border-radius: 50%;
+    position: fixed;
+    pointer-events: none;
+    z-index: 9999;
+    transform: translate(-50%, -50%);
+    transition: transform 0.1s ease;
+  }
+  .cursor-ring {
+    width: 38px; height: 38px;
+    border: 1px solid rgba(200,240,96,0.4);
+    border-radius: 50%;
+    position: fixed;
+    pointer-events: none;
+    z-index: 9998;
+    transform: translate(-50%, -50%);
+    transition: all 0.15s ease;
+  }
+
+  /* Grid noise texture overlay */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+    pointer-events: none;
+    z-index: 1;
+    opacity: 0.5;
+  }
+
+  /* Nav */
+  nav {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 100;
+    padding: 24px 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid transparent;
+    transition: all 0.3s ease;
+    backdrop-filter: blur(0px);
+  }
+  nav.scrolled {
+    background: rgba(10,10,11,0.9);
+    border-color: var(--border);
+    backdrop-filter: blur(20px);
+    padding: 16px 60px;
+  }
+  .nav-logo {
+    font-size: 18px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    color: var(--text);
+    text-decoration: none;
+  }
+  .nav-logo span { color: var(--accent); }
+  .nav-links { display: flex; gap: 40px; list-style: none; }
+  .nav-links a {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--muted);
+    text-decoration: none;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    transition: color 0.2s;
+  }
+  .nav-links a:hover { color: var(--accent); }
+  .nav-cta {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--bg);
+    background: var(--accent);
+    border: none;
+    padding: 10px 22px;
+    border-radius: 100px;
+    cursor: none;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    text-decoration: none;
+    transition: all 0.2s ease;
+  }
+  .nav-cta:hover { transform: scale(1.04); background: #d4f575; }
+
+  /* Hero */
+  .hero {
+    min-height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    padding: 0 60px;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero-bg-glow {
+    position: absolute;
+    width: 600px; height: 600px;
+    background: radial-gradient(circle, rgba(200,240,96,0.06) 0%, transparent 70%);
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+  }
+  .hero-bg-circle {
+    position: absolute;
+    width: 500px; height: 500px;
+    border: 1px solid rgba(255,255,255,0.03);
+    border-radius: 50%;
+    top: 50%; right: -100px;
+    transform: translateY(-50%);
+  }
+  .hero-bg-circle2 {
+    position: absolute;
+    width: 700px; height: 700px;
+    border: 1px solid rgba(255,255,255,0.02);
+    border-radius: 50%;
+    top: 50%; right: -250px;
+    transform: translateY(-50%);
+  }
+
+  .hero-left { position: relative; z-index: 2; }
+  .hero-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--accent);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin-bottom: 28px;
+  }
+  .hero-tag::before {
+    content: '';
+    width: 24px; height: 1px;
+    background: var(--accent);
+  }
+  .hero-name {
+    font-size: clamp(56px, 6vw, 88px);
+    font-weight: 800;
+    line-height: 0.95;
+    letter-spacing: -3px;
+    margin-bottom: 12px;
+  }
+  .hero-name .line2 {
+    color: transparent;
+    -webkit-text-stroke: 1px rgba(255,255,255,0.3);
+    font-style: italic;
+    font-family: var(--font-serif);
+    font-size: clamp(62px, 6.5vw, 96px);
+  }
+  .hero-role {
+    font-family: var(--font-mono);
+    font-size: 13px;
+    color: var(--muted);
+    letter-spacing: 0.08em;
+    margin-bottom: 36px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  .hero-role span {
+    width: 6px; height: 6px;
+    background: var(--accent);
+    border-radius: 50%;
+    display: inline-block;
+    animation: pulse 2s ease infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.5; transform: scale(0.7); }
+  }
+  .hero-desc {
+    font-size: 15px;
+    color: var(--muted);
+    line-height: 1.7;
+    max-width: 440px;
+    margin-bottom: 48px;
+    font-weight: 400;
+  }
+  .hero-actions { display: flex; gap: 16px; align-items: center; }
+  .btn-primary {
+    background: var(--accent);
+    color: var(--bg);
+    padding: 14px 32px;
+    border-radius: 100px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-decoration: none;
+    transition: all 0.2s;
+    border: none;
+    cursor: none;
+  }
+  .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 12px 40px rgba(200,240,96,0.25); }
+  .btn-outline {
+    border: 1px solid var(--border);
+    color: var(--muted);
+    padding: 14px 32px;
+    border-radius: 100px;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    text-decoration: none;
+    transition: all 0.2s;
+    background: transparent;
+    cursor: none;
+  }
+  .btn-outline:hover { border-color: var(--border-hover); color: var(--text); }
+
+  .hero-right {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  .hero-stats-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2px;
+    width: 380px;
+  }
+  .stat-card {
+    background: var(--surface);
+    padding: 28px;
+    border: 1px solid var(--border);
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease;
+  }
+  .stat-card:first-child { border-radius: 24px 0 0 0; }
+  .stat-card:nth-child(2) { border-radius: 0 24px 0 0; }
+  .stat-card:nth-child(3) { border-radius: 0 0 0 24px; }
+  .stat-card:last-child { border-radius: 0 0 24px 0; }
+  .stat-card:hover { background: var(--surface2); border-color: var(--border-hover); }
+  .stat-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 2px;
+    background: var(--accent);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.3s ease;
+  }
+  .stat-card:hover::before { transform: scaleX(1); }
+  .stat-num {
+    font-size: 38px;
+    font-weight: 800;
+    line-height: 1;
+    margin-bottom: 6px;
+    letter-spacing: -1px;
+  }
+  .stat-num .accent { color: var(--accent); }
+  .stat-label {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    color: var(--muted);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  /* Section base */
+  section { padding: 120px 60px; position: relative; }
+  .section-header {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin-bottom: 72px;
+    padding-bottom: 28px;
+    border-bottom: 1px solid var(--border);
+  }
+  .section-num {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--muted);
+    letter-spacing: 0.15em;
+    margin-bottom: 12px;
+  }
+  .section-title {
+    font-size: clamp(36px, 4vw, 56px);
+    font-weight: 800;
+    letter-spacing: -2px;
+    line-height: 1;
+  }
+  .section-title em {
+    font-family: var(--font-serif);
+    font-style: italic;
+    color: transparent;
+    -webkit-text-stroke: 1px rgba(255,255,255,0.4);
+  }
+  .section-sub {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--muted);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: right;
+  }
+
+  /* Skills */
+  #skills { background: var(--surface); }
+  .skills-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2px;
+  }
+  .skill-group {
+    background: var(--bg);
+    padding: 40px;
+    border: 1px solid var(--border);
+    transition: all 0.3s;
+  }
+  .skill-group:hover { background: var(--surface2); border-color: var(--border-hover); }
+  .skill-group-label {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    color: var(--accent);
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--border);
+  }
+  .skill-tags { display: flex; flex-wrap: wrap; gap: 8px; }
+  .skill-tag {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--muted);
+    border: 1px solid var(--border);
+    padding: 6px 12px;
+    border-radius: 100px;
+    transition: all 0.2s;
+    white-space: nowrap;
+  }
+  .skill-tag:hover { border-color: var(--accent); color: var(--accent); }
+
+  /* Projects */
+  .projects-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2px;
+  }
+  .project-card {
+    background: var(--surface);
+    padding: 44px;
+    border: 1px solid var(--border);
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    cursor: none;
+  }
+  .project-card:hover { border-color: var(--border-hover); background: var(--surface2); }
+  .project-card.featured {
+    grid-column: span 2;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 60px;
+    align-items: center;
+  }
+  .project-card::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(circle at var(--mx, 50%) var(--my, 50%), rgba(200,240,96,0.04) 0%, transparent 60%);
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  .project-card:hover::after { opacity: 1; }
+  .project-index {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    color: var(--muted);
+    letter-spacing: 0.15em;
+    margin-bottom: 20px;
+  }
+  .project-title {
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    margin-bottom: 8px;
+  }
+  .project-tagline {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--accent);
+    letter-spacing: 0.08em;
+    margin-bottom: 20px;
+  }
+  .project-desc {
+    font-size: 13px;
+    color: var(--muted);
+    line-height: 1.7;
+    margin-bottom: 28px;
+  }
+  .project-metrics {
+    display: flex;
+    gap: 24px;
+    margin-bottom: 28px;
+    padding: 20px 0;
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+  }
+  .metric { }
+  .metric-val {
+    font-size: 20px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    color: var(--accent);
+  }
+  .metric-key {
+    font-family: var(--font-mono);
+    font-size: 9px;
+    color: var(--muted);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+  .project-stack { display: flex; flex-wrap: wrap; gap: 6px; }
+  .stack-tag {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    color: var(--muted);
+    background: rgba(255,255,255,0.04);
+    padding: 4px 10px;
+    border-radius: 4px;
+    border: 1px solid var(--border);
+  }
+  .project-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--accent);
+    text-decoration: none;
+    margin-top: 24px;
+    letter-spacing: 0.08em;
+    transition: gap 0.2s;
+  }
+  .project-link:hover { gap: 14px; }
+  .project-visual {
+    aspect-ratio: 4/3;
+    background: var(--surface2);
+    border-radius: 12px;
+    border: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .project-visual::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(200,240,96,0.08) 0%, transparent 50%, rgba(96,200,240,0.05) 100%);
+  }
+  .visual-icon {
+    font-size: 64px;
+    opacity: 0.3;
+    position: relative;
+    z-index: 1;
+  }
+  .project-achievements {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .project-achievements li {
+    font-size: 13px;
+    color: var(--muted);
+    padding-left: 18px;
+    position: relative;
+    line-height: 1.5;
+  }
+  .project-achievements li::before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: var(--accent);
+    font-size: 11px;
+  }
+
+  /* Experience */
+  #experience { background: var(--surface); }
+  .exp-list { display: flex; flex-direction: column; gap: 2px; }
+  .exp-card {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    padding: 48px 52px;
+    display: grid;
+    grid-template-columns: 280px 1fr;
+    gap: 60px;
+    align-items: start;
+    transition: all 0.3s;
+  }
+  .exp-card:hover { background: var(--surface2); border-color: var(--border-hover); }
+  .exp-left { }
+  .exp-company {
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    margin-bottom: 8px;
+  }
+  .exp-role {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--accent);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  .exp-period {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    color: var(--muted);
+    letter-spacing: 0.1em;
+  }
+  .exp-right { }
+  .exp-points { list-style: none; display: flex; flex-direction: column; gap: 12px; margin-bottom: 28px; }
+  .exp-points li {
+    font-size: 13px;
+    color: var(--muted);
+    padding-left: 20px;
+    position: relative;
+    line-height: 1.6;
+  }
+  .exp-points li::before {
+    content: '—';
+    position: absolute;
+    left: 0;
+    color: var(--border-hover);
+  }
+  .exp-tech { display: flex; flex-wrap: wrap; gap: 6px; }
+
+  /* Achievements */
+  .achievements-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2px;
+  }
+  .achievement-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    padding: 40px;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s;
+  }
+  .achievement-card:hover { border-color: var(--border-hover); background: var(--surface2); }
+  .achievement-card.gold { }
+  .achievement-card.gold::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--gold), transparent);
+  }
+  .achievement-emoji { font-size: 32px; margin-bottom: 20px; display: block; }
+  .achievement-title {
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: -0.3px;
+    margin-bottom: 8px;
+  }
+  .achievement-desc {
+    font-size: 12px;
+    color: var(--muted);
+    line-height: 1.6;
+    margin-bottom: 16px;
+  }
+  .achievement-badge {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    color: var(--gold);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    border: 1px solid rgba(240,200,96,0.3);
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 100px;
+  }
+  .achievement-badge.accent2 {
+    color: var(--accent2);
+    border-color: rgba(96,200,240,0.3);
+  }
+
+  /* Certifications */
+  #certifications { background: var(--surface); }
+  .certs-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; }
+  .cert-card {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    padding: 36px;
+    transition: all 0.3s;
+  }
+  .cert-card:hover { border-color: var(--border-hover); background: var(--surface2); }
+  .cert-issuer {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    color: var(--accent);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin-bottom: 14px;
+  }
+  .cert-name {
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: -0.3px;
+    margin-bottom: 8px;
+  }
+  .cert-domain {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--muted);
+  }
+
+  /* Contact */
+  #contact {
+    background: var(--bg);
+    text-align: center;
+    padding: 160px 60px;
+    position: relative;
+    overflow: hidden;
+  }
+  #contact::before {
+    content: '';
+    position: absolute;
+    width: 800px; height: 800px;
+    background: radial-gradient(circle, rgba(200,240,96,0.04) 0%, transparent 70%);
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .contact-eyebrow {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--accent);
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+    position: relative;
+  }
+  .contact-title {
+    font-size: clamp(48px, 7vw, 96px);
+    font-weight: 800;
+    letter-spacing: -4px;
+    line-height: 0.9;
+    margin-bottom: 48px;
+    position: relative;
+  }
+  .contact-title em {
+    font-family: var(--font-serif);
+    font-style: italic;
+    color: transparent;
+    -webkit-text-stroke: 1px rgba(255,255,255,0.3);
+  }
+  .contact-links {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 56px;
+    position: relative;
+  }
+  .contact-link {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--muted);
+    text-decoration: none;
+    border: 1px solid var(--border);
+    padding: 12px 24px;
+    border-radius: 100px;
+    transition: all 0.2s;
+    letter-spacing: 0.06em;
+  }
+  .contact-link:hover { border-color: var(--border-hover); color: var(--text); }
+  .contact-link.primary {
+    background: var(--accent);
+    color: var(--bg);
+    border-color: var(--accent);
+    font-weight: 600;
+  }
+  .contact-link.primary:hover { background: #d4f575; transform: translateY(-2px); box-shadow: 0 12px 40px rgba(200,240,96,0.25); }
+  .availability {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--muted);
+    letter-spacing: 0.1em;
+    position: relative;
+  }
+  .avail-dot {
+    width: 8px; height: 8px;
+    background: #4ade80;
+    border-radius: 50%;
+    animation: pulse 2s ease infinite;
+    box-shadow: 0 0 12px rgba(74,222,128,0.5);
+  }
+
+  /* Footer */
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 28px 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .footer-text {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--muted);
+    letter-spacing: 0.08em;
+  }
+  .footer-quote {
+    font-family: var(--font-serif);
+    font-style: italic;
+    font-size: 13px;
+    color: rgba(255,255,255,0.2);
+  }
+
+  /* Fade-in animation */
+  .fade-in {
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity 0.7s ease, transform 0.7s ease;
+  }
+  .fade-in.visible {
+    opacity: 1;
+    transform: none;
+  }
+
+  /* Divider lines */
+  .grid-line {
+    position: absolute;
+    background: var(--border);
+    pointer-events: none;
+  }
+
+  @media (max-width: 1100px) {
+    nav { padding: 20px 32px; }
+    nav.scrolled { padding: 14px 32px; }
+    .hero { grid-template-columns: 1fr; padding: 140px 32px 80px; gap: 60px; }
+    .hero-right { justify-content: flex-start; }
+    .hero-stats-grid { width: 100%; max-width: 400px; }
+    section { padding: 80px 32px; }
+    .skills-grid, .projects-grid, .achievements-grid, .certs-grid { grid-template-columns: 1fr; }
+    .project-card.featured { grid-column: 1; display: block; }
+    .project-card.featured .project-visual { display: none; }
+    .exp-card { grid-template-columns: 1fr; gap: 24px; padding: 32px; }
+    .section-header { flex-direction: column; align-items: flex-start; gap: 12px; }
+    footer { flex-direction: column; gap: 12px; text-align: center; padding: 24px 32px; }
+    .nav-links { display: none; }
+    #contact { padding: 100px 32px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="cursor" id="cursor"></div>
+<div class="cursor-ring" id="cursorRing"></div>
+
+<!-- Navigation -->
+<nav id="navbar">
+  <a href="#" class="nav-logo">A<span>.</span>R</a>
+  <ul class="nav-links">
+    <li><a href="#skills">Skills</a></li>
+    <li><a href="#projects">Work</a></li>
+    <li><a href="#experience">Experience</a></li>
+    <li><a href="#achievements">Awards</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+  <a href="mailto:aakashrajendran2004@gmail.com" class="nav-cta">Hire Me</a>
+</nav>
+
+<!-- Hero -->
+<section class="hero">
+  <div class="hero-bg-glow"></div>
+  <div class="hero-bg-circle"></div>
+  <div class="hero-bg-circle2"></div>
+
+  <div class="hero-left fade-in">
+    <div class="hero-tag">Full Stack Developer</div>
+    <h1 class="hero-name">
+      <div>Akash</div>
+      <div class="line2">Rajendran</div>
+    </h1>
+    <div class="hero-role">
+      <span></span>
+      Available for Immediate Joining · Chennai, India
+    </div>
+    <p class="hero-desc">
+      Full Stack Developer with expertise in AI/ML integration, real-time systems, and scalable architecture. 
+      Hackathon winner, finalist, and builder of platforms serving 5,000+ users.
+    </p>
+    <div class="hero-actions">
+      <a href="#projects" class="btn-primary">View My Work</a>
+      <a href="mailto:aakashrajendran2004@gmail.com" class="btn-outline">Get in Touch</a>
+    </div>
+  </div>
+
+  <div class="hero-right fade-in" style="transition-delay:0.15s">
+    <div class="hero-stats-grid">
+      <div class="stat-card">
+        <div class="stat-num">5<span class="accent">K+</span></div>
+        <div class="stat-label">Users Served</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num">95<span class="accent">%</span></div>
+        <div class="stat-label">AI Accuracy</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num">6<span class="accent">+</span></div>
+        <div class="stat-label">Major Projects</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num">8.2<span class="accent">/10</span></div>
+        <div class="stat-label">GPA · B.E. ECE</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Skills -->
+<section id="skills">
+  <div class="section-header fade-in">
+    <div>
+      <div class="section-num">01 / 05</div>
+      <h2 class="section-title">Core <em>Stack</em></h2>
+    </div>
+    <div class="section-sub">Technologies & Tools</div>
+  </div>
+
+  <div class="skills-grid fade-in">
+    <div class="skill-group">
+      <div class="skill-group-label">Languages</div>
+      <div class="skill-tags">
+        <span class="skill-tag">JavaScript</span>
+        <span class="skill-tag">TypeScript</span>
+        <span class="skill-tag">Python</span>
+        <span class="skill-tag">Java</span>
+        <span class="skill-tag">C++</span>
+      </div>
+    </div>
+    <div class="skill-group">
+      <div class="skill-group-label">Frontend</div>
+      <div class="skill-tags">
+        <span class="skill-tag">React.js</span>
+        <span class="skill-tag">Next.js</span>
+        <span class="skill-tag">HTML5</span>
+        <span class="skill-tag">CSS3</span>
+        <span class="skill-tag">Tailwind CSS</span>
+      </div>
+    </div>
+    <div class="skill-group">
+      <div class="skill-group-label">Backend</div>
+      <div class="skill-tags">
+        <span class="skill-tag">Node.js</span>
+        <span class="skill-tag">Express.js</span>
+        <span class="skill-tag">FastAPI</span>
+        <span class="skill-tag">RESTful APIs</span>
+        <span class="skill-tag">WebSocket</span>
+      </div>
+    </div>
+    <div class="skill-group">
+      <div class="skill-group-label">Databases</div>
+      <div class="skill-tags">
+        <span class="skill-tag">MongoDB</span>
+        <span class="skill-tag">PostgreSQL</span>
+        <span class="skill-tag">Firebase</span>
+        <span class="skill-tag">Atlas Vector Search</span>
+      </div>
+    </div>
+    <div class="skill-group">
+      <div class="skill-group-label">AI / ML</div>
+      <div class="skill-tags">
+        <span class="skill-tag">Gemini 1.5 Pro</span>
+        <span class="skill-tag">ML Models</span>
+        <span class="skill-tag">NLP</span>
+        <span class="skill-tag">Semantic Analysis</span>
+        <span class="skill-tag">AI Integration</span>
+      </div>
+    </div>
+    <div class="skill-group">
+      <div class="skill-group-label">Tools & Platforms</div>
+      <div class="skill-tags">
+        <span class="skill-tag">Git</span>
+        <span class="skill-tag">Linux</span>
+        <span class="skill-tag">Vercel</span>
+        <span class="skill-tag">Postman</span>
+        <span class="skill-tag">OAuth 2.0</span>
+        <span class="skill-tag">Twilio API</span>
+        <span class="skill-tag">Gmail API</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Projects -->
+<section id="projects">
+  <div class="section-header fade-in">
+    <div>
+      <div class="section-num">02 / 05</div>
+      <h2 class="section-title">Selected <em>Work</em></h2>
+    </div>
+    <div class="section-sub">6 Signature Projects</div>
+  </div>
+
+  <div class="projects-grid">
+    <!-- Featured -->
+    <div class="project-card featured fade-in" onmousemove="trackMouse(event, this)">
+      <div class="project-body">
+        <div class="project-index">PROJECT 01 · FEATURED</div>
+        <h3 class="project-title">TruthGuard</h3>
+        <div class="project-tagline">AI-Powered Misinformation Detection System</div>
+        <p class="project-desc">
+          A real-time shield against fake news and media manipulation, analyzing political bias, 
+          narrative framing, and credibility scoring to help users navigate the information landscape with confidence.
+        </p>
+        <div class="project-metrics">
+          <div class="metric">
+            <div class="metric-val">95%</div>
+            <div class="metric-key">Accuracy</div>
+          </div>
+          <div class="metric">
+            <div class="metric-val">Real-time</div>
+            <div class="metric-key">Detection</div>
+          </div>
+          <div class="metric">
+            <div class="metric-val">5-layer</div>
+            <div class="metric-key">Analysis</div>
+          </div>
+        </div>
+        <ul class="project-achievements">
+          <li>Semantic analysis via MongoDB Atlas Vector Search</li>
+          <li>Political bias detection & narrative framing ML models</li>
+          <li>Sensationalism detection & credibility scoring engine</li>
+        </ul>
+        <div class="project-stack" style="margin-top:20px">
+          <span class="stack-tag">MongoDB Atlas</span>
+          <span class="stack-tag">Gemini 1.5 Pro</span>
+          <span class="stack-tag">Python</span>
+          <span class="stack-tag">ML Models</span>
+        </div>
+      </div>
+      <div class="project-visual">
+        <div class="visual-icon">🛡️</div>
+      </div>
+    </div>
+
+    <!-- LearnFree -->
+    <div class="project-card fade-in" onmousemove="trackMouse(event, this)">
+      <div class="project-index">PROJECT 02</div>
+      <h3 class="project-title">LearnFree</h3>
+      <div class="project-tagline">Multiportal Educational Platform</div>
+      <p class="project-desc">
+        A comprehensive educational ecosystem with distinct portals for students, teachers, and admins—powered by Gemini AI for adaptive learning and real-time analytics.
+      </p>
+      <div class="project-metrics">
+        <div class="metric">
+          <div class="metric-val">5K+</div>
+          <div class="metric-key">Users</div>
+        </div>
+        <div class="metric">
+          <div class="metric-val">1K+</div>
+          <div class="metric-key">Active Learners</div>
+        </div>
+      </div>
+      <div class="project-stack">
+        <span class="stack-tag">React.js</span>
+        <span class="stack-tag">Node.js</span>
+        <span class="stack-tag">MongoDB</span>
+        <span class="stack-tag">Gemini AI</span>
+      </div>
+    </div>
+
+    <!-- SyncOps -->
+    <div class="project-card fade-in" onmousemove="trackMouse(event, this)">
+      <div class="project-index">PROJECT 03</div>
+      <h3 class="project-title">SyncOps</h3>
+      <div class="project-tagline">High-Performance Data Pipeline Platform</div>
+      <p class="project-desc">
+        Enterprise-grade real-time collaboration platform engineered for high-throughput data processing with sub-100ms latency and 99.9% uptime.
+      </p>
+      <div class="project-metrics">
+        <div class="metric">
+          <div class="metric-val">&lt;100ms</div>
+          <div class="metric-key">Latency</div>
+        </div>
+        <div class="metric">
+          <div class="metric-val">100+</div>
+          <div class="metric-key">Concurrent Streams</div>
+        </div>
+        <div class="metric">
+          <div class="metric-val">40%</div>
+          <div class="metric-key">Efficiency Gain</div>
+        </div>
+      </div>
+      <div class="project-stack">
+        <span class="stack-tag">FastAPI</span>
+        <span class="stack-tag">PostgreSQL</span>
+        <span class="stack-tag">WebSocket</span>
+        <span class="stack-tag">Async I/O</span>
+      </div>
+      <a href="https://sync-ops-xvfz.vercel.app/" class="project-link" target="_blank">View Live →</a>
+    </div>
+
+    <!-- MailSense -->
+    <div class="project-card fade-in" onmousemove="trackMouse(event, this)">
+      <div class="project-index">PROJECT 04</div>
+      <h3 class="project-title">MailSense</h3>
+      <div class="project-tagline">Intelligent Email Management System</div>
+      <p class="project-desc">
+        An AI-powered email assistant that automates inbox management with zero storage of private data—saving users 3+ hours per week through intelligent classification and WhatsApp notifications.
+      </p>
+      <div class="project-metrics">
+        <div class="metric">
+          <div class="metric-val">3h+</div>
+          <div class="metric-key">Saved Weekly</div>
+        </div>
+        <div class="metric">
+          <div class="metric-val">0</div>
+          <div class="metric-key">Data Stored</div>
+        </div>
+      </div>
+      <div class="project-stack">
+        <span class="stack-tag">React.js</span>
+        <span class="stack-tag">Gmail API</span>
+        <span class="stack-tag">OAuth 2.0</span>
+        <span class="stack-tag">Twilio</span>
+      </div>
+      <a href="https://mailsense-omega.vercel.app/" class="project-link" target="_blank">View Live →</a>
+    </div>
+
+    <!-- AgroConnect -->
+    <div class="project-card fade-in" onmousemove="trackMouse(event, this)">
+      <div class="project-index">PROJECT 05</div>
+      <h3 class="project-title">AgroConnect</h3>
+      <div class="project-tagline">Farm-to-Consumer Marketplace</div>
+      <p class="project-desc">
+        A platform that eliminates agricultural middlemen, connecting farmers directly to consumers with location-based discovery, AI customer support, and real-time inventory management.
+      </p>
+      <div class="project-stack">
+        <span class="stack-tag">React.js</span>
+        <span class="stack-tag">Firebase</span>
+        <span class="stack-tag">Gemini AI</span>
+        <span class="stack-tag">Geolocation</span>
+      </div>
+      <a href="https://agro-connect-luet.vercel.app/" class="project-link" target="_blank">View Live →</a>
+    </div>
+
+    <!-- OpenPrep -->
+    <div class="project-card fade-in" onmousemove="trackMouse(event, this)">
+      <div class="project-index">PROJECT 06</div>
+      <h3 class="project-title">OpenPrep</h3>
+      <div class="project-tagline">Placement Preparation Hub</div>
+      <p class="project-desc">
+        A centralized platform providing structured resources for technical interview preparation—onboarding 1,500+ learners with company-specific resources and progress tracking.
+      </p>
+      <div class="project-metrics">
+        <div class="metric">
+          <div class="metric-val">1.5K+</div>
+          <div class="metric-key">Active Learners</div>
+        </div>
+      </div>
+      <div class="project-stack">
+        <span class="stack-tag">React.js</span>
+        <span class="stack-tag">Node.js</span>
+        <span class="stack-tag">MongoDB</span>
+        <span class="stack-tag">Express.js</span>
+      </div>
+      <a href="https://open-prepio.vercel.app/" class="project-link" target="_blank">View Live →</a>
+    </div>
+  </div>
+</section>
+
+<!-- Experience -->
+<section id="experience">
+  <div class="section-header fade-in">
+    <div>
+      <div class="section-num">03 / 05</div>
+      <h2 class="section-title">Professional <em>Experience</em></h2>
+    </div>
+    <div class="section-sub">Internships & Roles</div>
+  </div>
+
+  <div class="exp-list">
+    <div class="exp-card fade-in">
+      <div class="exp-left">
+        <div class="exp-company">PrepInsta</div>
+        <div class="exp-role">Full Stack Developer Intern</div>
+        <div class="exp-period">June 2024 — August 2024</div>
+      </div>
+      <div class="exp-right">
+        <ul class="exp-points">
+          <li>Optimized SQL queries achieving 35% faster response times across core services</li>
+          <li>Developed and deployed 15+ RESTful API endpoints with comprehensive documentation</li>
+          <li>Implemented secure OAuth 2.0 authentication flows for production systems</li>
+          <li>Automated repetitive workflows with Python scripts, reducing manual effort by 50%</li>
+          <li>Maintained near-zero downtime throughout active development cycles</li>
+        </ul>
+        <div class="exp-tech">
+          <span class="stack-tag">Node.js</span>
+          <span class="stack-tag">Express.js</span>
+          <span class="stack-tag">MongoDB</span>
+          <span class="stack-tag">SQL</span>
+          <span class="stack-tag">Python</span>
+          <span class="stack-tag">OAuth 2.0</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="exp-card fade-in">
+      <div class="exp-left">
+        <div class="exp-company">CodeBind Technologies</div>
+        <div class="exp-role">Web Developer Intern</div>
+        <div class="exp-period">November 2023 — December 2023</div>
+      </div>
+      <div class="exp-right">
+        <ul class="exp-points">
+          <li>Architected dual database system (PostgreSQL + MongoDB) for a scalable ticket booking platform</li>
+          <li>Implemented efficient indexing strategies to optimize complex query performance</li>
+          <li>Developed secure CRUD operations with robust server-side data validation</li>
+          <li>Created automated data backup and recovery systems for business continuity</li>
+        </ul>
+        <div class="exp-tech">
+          <span class="stack-tag">PostgreSQL</span>
+          <span class="stack-tag">MongoDB</span>
+          <span class="stack-tag">Python</span>
+          <span class="stack-tag">React.js</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Achievements -->
+<section id="achievements">
+  <div class="section-header fade-in">
+    <div>
+      <div class="section-num">04 / 05</div>
+      <h2 class="section-title">Awards & <em>Recognition</em></h2>
+    </div>
+    <div class="section-sub">Hackathons & Milestones</div>
+  </div>
+
+  <div class="achievements-grid">
+    <div class="achievement-card gold fade-in">
+      <span class="achievement-emoji">🏆</span>
+      <div class="achievement-title">DocuSign Hackathon</div>
+      <p class="achievement-desc">Most Valuable Project Award for innovation in document workflow automation.</p>
+      <span class="achievement-badge">$100 Prize · Winner</span>
+    </div>
+    <div class="achievement-card fade-in">
+      <span class="achievement-emoji">🇮🇳</span>
+      <div class="achievement-title">Smart India Hackathon 2024</div>
+      <p class="achievement-desc">Selected as a Finalist in India's premier national-level innovation challenge.</p>
+      <span class="achievement-badge accent2">National Finalist</span>
+    </div>
+    <div class="achievement-card fade-in">
+      <span class="achievement-emoji">🌐</span>
+      <div class="achievement-title">Google Chrome AI Challenge</div>
+      <p class="achievement-desc">Built a scalable AI solution recognized as a Finalist in Google's global challenge.</p>
+      <span class="achievement-badge accent2">Global Finalist</span>
+    </div>
+    <div class="achievement-card fade-in">
+      <span class="achievement-emoji">🤖</span>
+      <div class="achievement-title">Nosu AI Hackathon</div>
+      <p class="achievement-desc">Received Special Recognition for an innovative AI-driven project submission.</p>
+      <span class="achievement-badge">Special Recognition</span>
+    </div>
+    <div class="achievement-card fade-in">
+      <span class="achievement-emoji">💰</span>
+      <div class="achievement-title">Freelance · E-Learning Platform</div>
+      <p class="achievement-desc">Designed and delivered a production-grade e-learning platform for a client.</p>
+      <span class="achievement-badge">₹20,000 Revenue</span>
+    </div>
+    <div class="achievement-card fade-in">
+      <span class="achievement-emoji">👨‍💻</span>
+      <div class="achievement-title">Vidyutrenz Symposium</div>
+      <p class="achievement-desc">Led the Web Development team as Web Dev Head, driving 2,000+ event registrations.</p>
+      <span class="achievement-badge accent2">2,000+ Registrations</span>
+    </div>
+  </div>
+</section>
+
+<!-- Certifications -->
+<section id="certifications">
+  <div class="section-header fade-in">
+    <div>
+      <div class="section-num">05 / 05</div>
+      <h2 class="section-title">Certifications & <em>Learning</em></h2>
+    </div>
+    <div class="section-sub">Continuous Development</div>
+  </div>
+
+  <div class="certs-grid">
+    <div class="cert-card fade-in">
+      <div class="cert-issuer">Accenture · FutureLearn</div>
+      <div class="cert-name">Digital Skills: Artificial Intelligence</div>
+      <div class="cert-domain">AI & Machine Learning</div>
+    </div>
+    <div class="cert-card fade-in">
+      <div class="cert-issuer">Cisco Networking Academy</div>
+      <div class="cert-name">Networks & Security Fundamentals</div>
+      <div class="cert-domain">Cybersecurity</div>
+    </div>
+    <div class="cert-card fade-in">
+      <div class="cert-issuer">MongoDB University</div>
+      <div class="cert-name">MongoDB for Developers</div>
+      <div class="cert-domain">Database Management</div>
+    </div>
+  </div>
+</section>
+
+<!-- Contact -->
+<section id="contact">
+  <div class="contact-eyebrow">Open to Opportunities</div>
+  <h2 class="contact-title">Let's build<br><em>something</em><br>great.</h2>
+  <div class="contact-links">
+    <a href="mailto:aakashrajendran2004@gmail.com" class="contact-link primary">aakashrajendran2004@gmail.com</a>
+    <a href="tel:+919655667171" class="contact-link">+91 96556 67171</a>
+    <a href="https://akashr-io.vercel.app/" class="contact-link" target="_blank">akashr-io.vercel.app</a>
+    <a href="https://www.linkedin.com/in/aaakashrajendran" class="contact-link" target="_blank">LinkedIn</a>
+  </div>
+  <div class="availability">
+    <div class="avail-dot"></div>
+    Available for full-time positions · Immediate joining
+  </div>
+</section>
+
+<footer>
+  <div class="footer-text">© 2025 Akash R · Chennai, Tamil Nadu, India</div>
+  <div class="footer-quote">"First, solve the problem. Then, write the code."</div>
+  <div class="footer-text">B.E. ECE · Chennai Institute of Technology · GPA 8.2/10</div>
+</footer>
+
+<script>
+  // Custom cursor
+  const cursor = document.getElementById('cursor');
+  const ring = document.getElementById('cursorRing');
+  let mx = 0, my = 0, rx = 0, ry = 0;
+  document.addEventListener('mousemove', e => { mx = e.clientX; my = e.clientY; });
+  function animCursor() {
+    cursor.style.left = mx + 'px';
+    cursor.style.top = my + 'px';
+    rx += (mx - rx) * 0.12;
+    ry += (my - ry) * 0.12;
+    ring.style.left = rx + 'px';
+    ring.style.top = ry + 'px';
+    requestAnimationFrame(animCursor);
+  }
+  animCursor();
+  document.querySelectorAll('a, button, .project-card, .stat-card').forEach(el => {
+    el.addEventListener('mouseenter', () => {
+      cursor.style.transform = 'translate(-50%,-50%) scale(2.5)';
+      ring.style.transform = 'translate(-50%,-50%) scale(1.4)';
+      ring.style.borderColor = 'rgba(200,240,96,0.6)';
+    });
+    el.addEventListener('mouseleave', () => {
+      cursor.style.transform = 'translate(-50%,-50%) scale(1)';
+      ring.style.transform = 'translate(-50%,-50%) scale(1)';
+      ring.style.borderColor = 'rgba(200,240,96,0.4)';
+    });
+  });
+
+  // Navbar scroll
+  const navbar = document.getElementById('navbar');
+  window.addEventListener('scroll', () => {
+    navbar.classList.toggle('scrolled', window.scrollY > 40);
+  });
+
+  // Fade-in observer
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach((e, i) => {
+      if (e.isIntersecting) {
+        setTimeout(() => e.target.classList.add('visible'), i * 60);
+      }
+    });
+  }, { threshold: 0.1, rootMargin: '0px 0px -60px 0px' });
+  document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+
+  // Project card mouse glow
+  function trackMouse(e, card) {
+    const r = card.getBoundingClientRect();
+    card.style.setProperty('--mx', ((e.clientX - r.left) / r.width * 100) + '%');
+    card.style.setProperty('--my', ((e.clientY - r.top) / r.height * 100) + '%');
+  }
+</script>
+</body>
+</html>
